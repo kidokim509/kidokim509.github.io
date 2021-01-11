@@ -10,5 +10,4 @@ order: 4
 # MIT License
 ---
 
-
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+하루하루 배운 것을 정리하고 느낀 것을 기록하는 곳입니다.
