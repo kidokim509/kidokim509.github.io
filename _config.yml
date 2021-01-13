@@ -12,7 +12,7 @@ title: olaf.kido                       # the main title
 tagline: 윤윤이 아빠의 블로그          # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  a blog about software engineering, machine learning, leadership and my life.
+  a blog about software engineering, machine learning and my life.
 
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
 url: 'https://kidokim509.github.io'
