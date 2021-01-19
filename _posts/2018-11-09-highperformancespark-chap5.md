@@ -3,7 +3,9 @@ title:   효율적인 트랜스포메이션 (하이 퍼포먼스 스파크 chap5
 date:    2018-11-09 23:59:00 +0900
 categories: [dev, spark]
 tags: [spark]
+permalink: /spark/highperformancespark-chap5/
 ---
+
 ## 좁은 트랜스포메이션 vs. 넓은 트랜스포메이션
 ### 좁은 종속성의 트랜스포메이션
 - 부모 RDD의 각 파티션이 자식 RDD의 최대 하나의 파티션에 의해 사용되는 것

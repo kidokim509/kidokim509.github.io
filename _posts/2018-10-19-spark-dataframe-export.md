@@ -3,6 +3,7 @@ title:   spark dataframe을 csv로 export하기
 date:    2018-10-19 16:50:00 +0900
 categories: [dev, spark]
 tags: [spark]
+permalink: /spark/spark-dataframe-export/
 ---
 
 ## spark dataframe을 csv로 export하기

@@ -3,6 +3,7 @@ title:   DataFrame, Dataset과 스파크 SQL (하이 퍼포먼스 스파크 chap
 date:    2018-10-24 23:15:00 +0900
 categories: [dev, spark]
 tags: [spark]
+permalink: /spark/highperformancespark-chap3/
 ---
 
 ## DataFrame and Dataset

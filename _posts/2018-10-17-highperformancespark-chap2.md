@@ -3,6 +3,7 @@ title: 스파크는 어떻게 동작하는가? (하이 퍼포먼스 스파크 ch
 date: 2018-10-17 13:00:00 +0900
 categories: [dev, spark]
 tags: [spark]
+permalink: /spark/highperformancespark-chap2/
 ---
 
 ## RDD

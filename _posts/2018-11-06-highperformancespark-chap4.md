@@ -3,6 +3,7 @@ title:   조인(SQL과 코어 스파크) (하이 퍼포먼스 스파크 chap4)
 date:    2018-11-07 23:59:00 +0900
 categories: [dev, spark]
 tags: [spark]
+permalink: /spark/highperformancespark-chap4/
 ---
 
 ## 코어 스파크 조인
